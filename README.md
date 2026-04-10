@@ -2,7 +2,7 @@
 My first Repository
 
 
-### Basic Syntax
+
 
 # Attack on Titan
 *by Hajime Isayama on September 9, 2009*
